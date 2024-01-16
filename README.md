@@ -1,1 +1,1 @@
-# missing-value-imputation---99Acres
+In my project, I worked on a task called missing value imputation. Imagine having a list of information, but some parts are missing. It's like having gaps in a puzzle. My job was to fill in those gaps by using clever techniques. This helps make the data complete and useful, like putting all the puzzle pieces together so we can see the whole picture. It's like magic, but with numbers and data!"
